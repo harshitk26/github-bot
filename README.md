@@ -21,4 +21,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2019 Harshit Kachhwaha <hkachhwaha@pretlist.com> (https://github.com/harshitk26/github-bot/wiki)
+[ISC](LICENSE) © 2019 Harshit Kachhwaha <harshiit.2602@gmail.com> (https://github.com/harshitk26/github-bot/wiki)
